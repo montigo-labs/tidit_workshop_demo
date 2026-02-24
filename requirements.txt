@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-nebius
+langchain-together
+rich
+python-dotenv
+langchain-community
+langchain-tavily
+tavily
